@@ -1,4 +1,4 @@
-## This function takes the matrix as input. It has subfunctions to cache its inverse, pass the matrix and its inverse to the s
+## This function takes the matrix as input. It has subfunctions to cache its inverse, pass the matrix and its inverse to the
 ## subsequent function from where this function is called.
 
 makeCacheMatrix <- function(z = matrix()) {
